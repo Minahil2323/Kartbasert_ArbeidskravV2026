@@ -1,2 +1,2 @@
 ## Live site
-https://minahil2323.github.io/Kartbasert_ArbeidskravV2026/
+https://github.com/Minahil2323/Kartbasert_ArbeidskravV2026 
